@@ -1,0 +1,14 @@
+/home/kae/School/MAD/animals-csharp/animals-csharp/bin/Debug/net8.0/animals-csharp
+/home/kae/School/MAD/animals-csharp/animals-csharp/bin/Debug/net8.0/animals-csharp.deps.json
+/home/kae/School/MAD/animals-csharp/animals-csharp/bin/Debug/net8.0/animals-csharp.runtimeconfig.json
+/home/kae/School/MAD/animals-csharp/animals-csharp/bin/Debug/net8.0/animals-csharp.dll
+/home/kae/School/MAD/animals-csharp/animals-csharp/bin/Debug/net8.0/animals-csharp.pdb
+/home/kae/School/MAD/animals-csharp/animals-csharp/obj/Debug/net8.0/animals-csharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/kae/School/MAD/animals-csharp/animals-csharp/obj/Debug/net8.0/animals-csharp.AssemblyInfoInputs.cache
+/home/kae/School/MAD/animals-csharp/animals-csharp/obj/Debug/net8.0/animals-csharp.AssemblyInfo.cs
+/home/kae/School/MAD/animals-csharp/animals-csharp/obj/Debug/net8.0/animals-csharp.csproj.CoreCompileInputs.cache
+/home/kae/School/MAD/animals-csharp/animals-csharp/obj/Debug/net8.0/animals-csharp.dll
+/home/kae/School/MAD/animals-csharp/animals-csharp/obj/Debug/net8.0/refint/animals-csharp.dll
+/home/kae/School/MAD/animals-csharp/animals-csharp/obj/Debug/net8.0/animals-csharp.pdb
+/home/kae/School/MAD/animals-csharp/animals-csharp/obj/Debug/net8.0/animals-csharp.genruntimeconfig.cache
+/home/kae/School/MAD/animals-csharp/animals-csharp/obj/Debug/net8.0/ref/animals-csharp.dll
